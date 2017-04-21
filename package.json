@@ -1,0 +1,17 @@
+{
+  "name": "expresiones_regulares",
+  "version": "1.0.0",
+  "description": "nodeschool lab about regex",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "regex",
+    "expresiones",
+    "regulares"
+  ],
+  "author": "Alexander Jaramillo <alexunjm@gmail.com>",
+  "license": "MIT"
+}
